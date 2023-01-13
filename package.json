@@ -1,6 +1,6 @@
 {
   "name": "@sleepinggautama/whatsapp-web.js",
-  "version": "1.18.4-hotfix-undefined-legacyphonefeatures",
+  "version": "1.18.4-hotfix-undefined-legacyphonefeatures-x",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
