@@ -3,11 +3,7 @@
 
 This fork is only meant to be used as a temporary substitute when the main library is not yet updated for newest version of Whatsapp Web.
 
----
-
 [![npm](https://img.shields.io/npm/v/@sleepinggautama/whatsapp-web.js.svg)](https://www.npmjs.com/package/@sleepinggautama/whatsapp-web.js)
-
-Note that this version is based on the [fix-buttons-list](https://github.com/pedroslopez/whatsapp-web.js/tree/fix-buttons-list) branch.
 
 ---
 
