@@ -7,8 +7,8 @@ const MessageMedia = require('./MessageMedia');
  * @typedef {Object} ButtonSpec
  * @property {string} body - The text to show on the button.
  * @property {string=} id - Custom ID to set on the button. A random one will be generated if one is not passed.
- * @ property {string=} url - Custom URL to set on the button. Optional and will change the type of the button
- * @ property {string=} number - Custom URL to set on the button. Optional and will change the type of the button
+ * @property {string=} url - Custom URL to set on the button. Optional and will change the type of the button
+ * @property {string=} number - Custom URL to set on the button. Optional and will change the type of the button
  */
 
 /**
